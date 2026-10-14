@@ -1,3 +1,5 @@
+<img align="right" width="200" src="picture.jpg" alt="Mehedi Mansur Rafi">
+
 # Hi, I'm Mehedi Mansur Rafi 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9CCA&width=435&lines=Full-Stack+Web+Developer;Freelance+%7C+Remote;PHP+%E2%80%A2+MySQL+%E2%80%A2+JavaScript)](https://git.io/typing-svg)
